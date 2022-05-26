@@ -33,7 +33,7 @@
 
 ## Proyecto Actual :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-    Esta sección es sumamente importante para comprender cómo podemos crear de forma estática páginas aunque tengan argumentos dinámicos.
+    Esta sección es sumamente importante para comprender cómo podemos crear de forma estática páginas aunque tengan argumentos dinámicos junto con ISR
 
     Caracteristicas a tratar:
                            - Multiples componentes de NextUI
@@ -43,6 +43,7 @@
                            - Navegación
                            - Parámetros por URL
                            - Parámetros estáticos
+                           - SSG & ISR
                            - Next - GetStaticProps
                                                     >Los datos necesarios para representar la página están disponibles en el momento de la compilación antes de la solicitud.
                                                     >Los datos provienen de un CMS sin cabeza.
